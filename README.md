@@ -1,4 +1,6 @@
-### Hyewon_coding activities 🐈‍⬛
+<div align=center>
+
+  #### _Hyewon_coding activities 🐈‍⬛_
 
 <!--
 **Hyewon419/Hyewon419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hyewon419's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyewon419&theme=nightowl&show_icons=true)
+  ![Hyewon419's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyewon419&theme=nightowl&show_icons=true)
+</div>
